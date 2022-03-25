@@ -1,0 +1,32 @@
+{
+    "notice": [
+        {
+            "title":"테스트 입니다.",
+            "date":"2022-2-22",
+            "content":"테스트글 입니다.",
+            "pic":"/Kakao_logo.jpg",
+            "link":"null"
+        },
+        {
+            "title":"테스트 입니다2",
+            "date":"2022-2-22",
+            "content":"테스트글 입니다2",
+            "pic":"null",
+            "link":"https://www.google.com/"
+        },
+        {
+            "title":"테스트 입니다3",
+            "date":"2022-2-22",
+            "content":"테스트글 입니다3",
+            "pic":"null",
+            "link":""
+        },
+        {
+            "title":"테스트 입니다4",
+            "date":"2022-2-22",
+            "content":"테스트글 입니다2",
+            "pic":"/sample (1).png",
+            "link":"https://www.google.com/"
+        }
+    ]
+}
